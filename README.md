@@ -24,5 +24,7 @@ Add the URL to your animated app walkthough `gif` in the image tag below, `YOUR_
 
 <img src="http://recordit.co/FXSQYpa7eK" width=250><br>
 
+http://recordit.co/FXSQYpa7eK
+
 ### Notes
 The most difficult aspect of building this app was the integration of the cocoapods into my computer and learning how to use them.
